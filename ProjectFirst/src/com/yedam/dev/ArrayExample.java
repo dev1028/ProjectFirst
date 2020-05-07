@@ -6,7 +6,7 @@ public class ArrayExample {
 		intAry[0] = 10;
 		intAry[1] = 20;
 		intAry[2] = 30;
-		intAry[3] = 40;
+		intAry[3] = 40; 
 		intAry[4] = 50;
 //		intAry[5] = 50; 
  
