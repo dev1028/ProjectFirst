@@ -8,7 +8,7 @@ public class ArrayExample {
 		intAry[2] = 30;
 		intAry[3] = 40;
 		intAry[4] = 50;
-//		intAry[5] = 50;
+//		intAry[5] = 50; 
 
 		System.out.println(intAry[0]);
 
