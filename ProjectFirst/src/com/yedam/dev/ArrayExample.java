@@ -9,7 +9,7 @@ public class ArrayExample {
 		intAry[3] = 40;
 		intAry[4] = 50;
 //		intAry[5] = 50; 
-
+ 
 		System.out.println(intAry[0]);
 
 		// 문제.
