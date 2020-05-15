@@ -65,8 +65,6 @@ public class AccountExample {
 				System.out.println("출금 처리가 완료되었습니다.");
 			} else if (menu == 5) {
 
-			} else if (menu == 6) {
-
 			}
 		}
 	}
